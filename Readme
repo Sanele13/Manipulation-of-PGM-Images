@@ -1,0 +1,21 @@
+Author: Mpangalala Sanele
+Date: 11-05-2016
+Name: Image Processing
+
+Description:
+
+This program perfoms operations on images. The users enters the output filename and the operation to be performed on an image. The image can be changed on the program, by giving the program a different imag name.
+
+
+Instructions: 
+
+To compile the program, use the make command on the terminal.
+
+To run the program: type ./imageops <option> <output_file>
+	      
+To clean: type 'make clean' on command line
+
+List of files: Image.cpp, Image.h, Driver.cpp
+
+For the results of the test, look in the folder of the assignment.
+
